@@ -19,8 +19,8 @@ Baidu Netdisk：https://pan.baidu.com/xxxx
 Create and activate the environment:
 
 ```bash
-conda create -n spike_env python=3.9
-conda activate spike_env
+conda create -n spikeunroll python=3.9
+conda activate spikeunroll
 
 pip install -r requirements.txt
 ```
